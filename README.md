@@ -1,8 +1,9 @@
 # Turtle-Race
 This is a program that allows you to bet on a race of turtles by color!
 
-![](image 1.png)
-![](image 2.png)
+![](image 1.PNG)
+
+![](image 2.PNG)
 
 ## Table of Contents
 
